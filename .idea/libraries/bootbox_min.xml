@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bootbox.min" type="kotlin.js">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/bootbox.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
